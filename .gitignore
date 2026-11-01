@@ -1,0 +1,9 @@
+.state/
+.demo/
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3*
+config.local.json
+dist/
+*.egg-info/
